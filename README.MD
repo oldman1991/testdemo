@@ -104,3 +104,5 @@
 * 102.valid_palindrome.py 验证回文字符串II 680
 * 103.day_of_year_for_date.py 这一年的哪一天
 * 104.sorted_stack.py 排序栈
+* 105.daily_temperatures.py 温度
+* 106.next_greatest_letters.py 寻找比目标字母大的最小字母
