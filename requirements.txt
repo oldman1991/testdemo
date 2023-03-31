@@ -1,5 +1,5 @@
 requests==2.22.0
 asyncio==3.4.3
-redis==3.3.11
+redis==4.4.4
 gevent==1.4.0
 confluent-kafka==0.11.6
