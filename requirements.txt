@@ -1,4 +1,4 @@
-requests==2.22.0
+requests==2.31.0
 asyncio==3.4.3
 redis==3.3.11
 gevent==1.4.0
